@@ -1,4 +1,4 @@
-# Parse a factorio debug file into a tsv file formatted as follows:
+# Parse a Factorio LTN debug log file into a tsv file with the following columns:
 # T_1 T_2 T_3 T_4 T_5 T_6 DepotName DepotID ProviderName ProviderID RequesterName RequesterID TrainName TrainID Item Quantity Stack
 
 # T_1: time the train left depot
